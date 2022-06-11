@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Search</string>
+    <string name="title">제목 %s</string>
+</resources>
